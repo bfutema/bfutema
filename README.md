@@ -2,9 +2,9 @@
 	<img alt="Bruno Futema" src="./slogan.svg" width="400px" />
 </h1>
 
-<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
 # Bem vindo!
+
+<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
  
 ## Eu sou Bruno Amaral Futema!
  
@@ -17,6 +17,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/brunofutema/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511976905291)
 
+<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+
 ## Tecnologias!
 
 - React JS
@@ -28,8 +30,6 @@
 - HTML5
 - CSS3
 - JavaScript
-
-<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 <!--
 ### Hi there 👋
