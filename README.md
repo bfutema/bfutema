@@ -21,15 +21,7 @@
 
 ## Tecnologias!
 
-- React JS
-- React Native
-- Node.js
-- Redux
-- .NET
-- TypeScript
-- HTML5
-- CSS3
-- JavaScript
+[![Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]()
 
 <!--
 ### Hi there 👋
