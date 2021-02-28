@@ -2,9 +2,9 @@
 	<img alt="Bruno Futema" src="./slogan.svg" width="400px" />
 </h1>
 
-# Bem vindo!
-
 <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+
+# Bem vindo!
  
 ## Eu sou Bruno Amaral Futema!
  
