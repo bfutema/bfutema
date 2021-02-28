@@ -11,7 +11,7 @@
 - Sou desenvolvedor a mais de 2 anos.
 - Atuo como desenvolvedor full-stack.
 - Aplicações Web Responsivas.
-- Apaoxinado pela tecnologia.
+- Apaixonado pela tecnologia.
 - Foco intenso em 3 pilares: Web, Mobile & Arquitetura de Software
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/brunofutema/)
