@@ -15,19 +15,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/brunofutema/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511976905291)
 
-# Bem vindo!
- 
-## Eu sou Bruno Amaral Futema!
- 
-- Sou desenvolvedor a mais de 2 anos.
-- Atuo como desenvolvedor full-stack.
-- Aplicações Web Responsivas.
-- Apaixonado pela tecnologia.
-- Foco intenso em 3 pilares: Web, Mobile & Arquitetura de Software
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/brunofutema/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511976905291)
-
 ## Tecnologias!
 
 ##### Foco atual
