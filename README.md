@@ -23,7 +23,8 @@
 
 ## Tecnologias!
 
-<img align="center" width="100%" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
+<!--<img align="center" width="100%" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
+-->
 
 <!--
 ### Hi there 👋
