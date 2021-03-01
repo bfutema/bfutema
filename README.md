@@ -80,7 +80,6 @@
 <img align="left" width="400px" height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
 
 <img align="right" width="400px" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
->>>>>>> cb18c83... Update README.md
 
 <!--
 ### Hi there 👋
