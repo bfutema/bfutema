@@ -2,7 +2,7 @@
 	<img alt="Bruno Futema" src="./slogan.svg" width="400px" />
 </h1>
 
-<img align="center" width="100%" height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="center" width="100%" height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
 
 # Bem vindo!
  
@@ -19,7 +19,7 @@
 
 ## Tecnologias!
 
-[![Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]()
+[![Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical)]()
 
 <!--
 ### Hi there 👋
