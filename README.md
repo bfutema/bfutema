@@ -2,11 +2,6 @@
 	<img alt="Bruno Futema" src="./slogan.svg" width="400px" />
 </h1>
 
-<<<<<<< HEAD
-<img align="center" width="400px" height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
-
-<br/>
-
 # Bem vindo!
  
 ## Eu sou Bruno Amaral Futema!
@@ -20,10 +15,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/brunofutema/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511976905291)
 
-## Tecnologias!
-
-<img align="center" width="400px" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFutema&show_icons=true&icon_color=79ff97&title_color=79ff97&text_color=fff&theme=radical">
-=======
 # Bem vindo!
  
 ## Eu sou Bruno Amaral Futema!
