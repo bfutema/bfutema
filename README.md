@@ -6,7 +6,7 @@
  
 ## Eu sou Bruno Amaral Futema!
  
-- Sou desenvolvedor a mais de 5 anos.
+- Sou desenvolvedor desde 2018.
 - Atuo como desenvolvedor full-stack.
 - Aplicações Web Responsivas.
 - Apaixonado pela tecnologia.
